@@ -4,6 +4,8 @@ DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
 # 域名后缀匹配
+DOMAIN-SUFFIX,deepseek.com
+DOMAIN-SUFFIX,deepseek.cn
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,auth0.com
