@@ -8,6 +8,9 @@ DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,Direct
 DOMAIN-SUFFIX,steamstore-a.akamaihd.net,Direct
 DOMAIN-KEYWORD,akamai,Direct
 DOMAIN-KEYWORD,akamaiedge,Direct
+# 游戏更新/下载相关 IP 段直连（可选，增强稳定性）
+IP-CIDR,157.0.0.0/8,Direct
+IP-CIDR,103.0.0.0/8,Direct
 
 # MyList
 # 域名后缀匹配
