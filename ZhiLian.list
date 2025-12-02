@@ -1,5 +1,14 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
+# Steam 下载流量直连（避免代理瓶颈）
+DOMAIN-SUFFIX,cs.steampowered.com,Direct
+DOMAIN-SUFFIX,gs.steampowered.com,Direct
+DOMAIN-SUFFIX,ps.steampowered.com,Direct
+DOMAIN-SUFFIX,steamcdn-a.akamaihd.net,Direct
+DOMAIN-SUFFIX,steamstore-a.akamaihd.net,Direct
+DOMAIN-KEYWORD,akamai,Direct
+DOMAIN-KEYWORD,akamaiedge,Direct
+
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
