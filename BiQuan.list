@@ -4,5 +4,6 @@ DOMAIN-SUFFIX,socialchain.app
 DOMAIN-SUFFIX,onesignal.com
 DOMAIN-SUFFIX,pangle.io
 DOMAIN-SUFFIX,moloco.com
+DOMAIN-SUFFIX,i18n-pglstatp.com
 # IP段匹配
 IP-CIDR,119.29.124.28/32,no-resolve
