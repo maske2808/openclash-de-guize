@@ -7,3 +7,4 @@ DOMAIN-SUFFIX,moloco.com
 DOMAIN-SUFFIX,i18n-pglstatp.com
 # IP段匹配
 IP-CIDR,119.29.124.28/32,no-resolve
+IP-CIDR,142.251.170.188/32,no-resolve
