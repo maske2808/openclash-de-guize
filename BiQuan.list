@@ -1,0 +1,7 @@
+# Pi币 #
+# 域名后缀匹配
+DOMAIN-SUFFIX,socialchain.app
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,pangle.io
+# IP段匹配
+IP-CIDR,119.29.124.28/32,no-resolve
